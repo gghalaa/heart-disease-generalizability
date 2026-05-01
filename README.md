@@ -178,3 +178,12 @@ The main findings of the project include:
 - External validation is important because internal validation may overestimate real-world model performance.
 - The project highlights the effect of distribution shift in healthcare machine learning.
 - The results suggest that simpler models may sometimes generalize better than more complex models.
+
+## Authors
+
+- Ghala Alghamdi
+- Hiba Amanulla
+- Effat University
+- Computer Science Department
+- Course: CS3072 – Data Science
+- Instructor: Dr. Passent Elkafrawy
